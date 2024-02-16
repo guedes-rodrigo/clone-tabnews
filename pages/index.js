@@ -2,4 +2,4 @@ function Home(){
   return <h1>teste</h1>  
 }
 
-export default Home;0
+export default Home;
